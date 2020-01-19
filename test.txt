@@ -1,1 +1,2 @@
 print ("Hey you crazy kids")
+add new print ("Hey old men")
