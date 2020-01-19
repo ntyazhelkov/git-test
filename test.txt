@@ -1,6 +1,0 @@
-print ("Hey you crazy kids");
-add new print ("Hey old men");
-add new print ("papaparam");
-add new print ("paraparapam");
-add new print ("papam");
-
